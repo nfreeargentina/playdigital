@@ -1131,7 +1131,7 @@
       {
         "icon": "https://static.flow.com.ar/images/670/CH_LOGO/350/500/0/0/74835190079.png",
         "name": "CANAL DE LAS ESTRELLAS",
-        "uri": "WVDAXx65BdcrfL+bILx000ZVFVbOw4DLxjtsjr2hJ6HZMOL1Y3tWn3zUmJUPpTDHRos4NM0+oquUKGtZEIZMe83sczA9wo8NphX2aMo3EOeAS4gwGLCN7u2gmT/6+3O250l61iDad9Rxl3r6V5fSmLvdn1tiW48RZqELfRqZUqY=",
+        "uri": "tCCYHaXdfeE2UXGmWEN+OO7wH88Hjyht64V/srSwoG35c7GxKYopG+ylV7OBcihHAVu0DRx8Jf4JZFgpu6AAJOyVYGDUvMlculV6h20NikaBMMvF22Ht0N4S6L1kpQNRbSmaa2odOPpzBHqruyeHMg==",
         "drm_scheme": "widevine",
         "drm_license_url": "/mGM655KwcD2RhCNVH4Y/u0+4+8PXpMZFjrQjAUJnLr4RRbpbN2jps8Wjv6XBzztw1hT1tUQEF/G aPVJB5Eysbi7fPM94HGQ3QOieG4c0gpbzX5D/xTN48NAChiUvHfz"
       },
@@ -1145,9 +1145,9 @@
       {
         "icon": "https://blancolorenz.com/wp-content/uploads/2012/06/TLNovelas2.png",
         "name": "TL NOVELA",
-        "uri": "/WR6R27pXc1gPUqr/ut1KH8tPWp5gbcEf8jG3kmze+0YiBmCYuOjAhSfsV/1vwTAX3+UXVHKQxewv41qNS2Gkg0N++6CSC/xEDwnnsZn9CE=",
-        "drm_scheme": "widevine",
-        "drm_license_url": "1RkZCOryVmTaRVCtJs09hgpufbakg/CqaCQRCZnTGX+hagi5F+TiC/ZQGxk0bdpg"
+        "uri": "GC2/ddPzLVut0fvk2/wB4j72KYSRLipl/MEKlkdtFKL46EEThsqNUI4CWf6xpLT0TP0NwF4Rf2VIRu7UmPAg3A==",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "p3w4YOr2vcNcc+A/yk81q/5UvWaWvrxdJm+GAH/dvOmI37EWFNNFDWZL0vhNcT/2"
       },
       {
         "icon": "https://static.flow.com.ar/images/1254/CH_LOGO/350/500/0/0/6858782907349.png",
@@ -1155,13 +1155,6 @@
         "uri": "tCCYHaXdfeE2UXGmWEN+OO7wH88Hjyht64V/srSwoG2fETttigNVw2zvLqB1TrfCc2GSBCUuSP/EKul5lLUsCFejNzMfuBdGtoM0lIEmNTepWGHbgAKkqSsIhiZVrXVd",
         "drm_scheme": "widevine",
         "drm_license_url": "/mGM655KwcD2RhCNVH4Y/u0+4+8PXpMZFjrQjAUJnLr4RRbpbN2jps8Wjv6XBzztw1hT1tUQEF/G aPVJB5Eysbi7fPM94HGQ3QOieG4c0gpbzX5D/xTN48NAChiUvHfz"
-      },
-      {
-        "icon": "https://images.istreamplanet.net/w_200,c_limit/dtv-latam-prod/60197f6a-4c0e-44ef-a3dc-89df4b992bce.png",
-        "name": "CANAL A",
-        "uri": "tCCYHaXdfeE2UXGmWEN+OO7wH88Hjyht64V/srSwoG3tqrjJyY9at1AsJuUY5phrhMEma95nvkNrfnYyA0EZjaSf/l3v+/vVWS4+5AsRe8c=",
-        "drm_scheme": "widevine",
-        "drm_license_uri": "/mGM655KwcD2RhCNVH4Y/u0+4+8PXpMZFjrQjAUJnLr4RRbpbN2jps8Wjv6XBzztw1hT1tUQEF/G aPVJB5Eysbi7fPM94HGQ3QOieG4c0gpbzX5D/xTN48NAChiUvHfz"
       },
       {
         "icon": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdirectostv.teleame.com%2Fwp-content%2Fuploads%2F2018%2F02%2Fciudad-magazine.png&f=1&nofb=1",
