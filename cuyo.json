@@ -598,13 +598,6 @@
     "name": "CINE",
     "lista": [
       {
-        "icon": "https://geo.edge.pontiscloud.com:9002/images/63/CH_LOGO/80/80/0/0/41895840072352.png",
-        "name": "DHE",
-        "uri": "Po0CgS2CYGe21lc9/aZeRqU2GMoOZ4FqemPlBtgreSd6xfu51TO89/Q+wBzhqvS7",
-        "drm_scheme": "widevine",
-        "drm_license_url": "1RkZCOryVmTaRVCtJs09hgpufbakg/CqaCQRCZnTGX+hagi5F+TiC/ZQGxk0bdpg"
-      },
-      {
         "icon": "https://static.flow.com.ar/images/267/CH_LOGO/350/500/0/0/75126015073445.png",
         "name": "CINECANAL",
         "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4zs5l0C8hLAjB5DtjjZYm001mgKgxt2x7R/V923KJj+POGZb6J9tsUkD8sWX5EH5d/8u5pAc2vpebKDVkVlg/RO",
