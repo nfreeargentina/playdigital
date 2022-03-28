@@ -69,7 +69,7 @@
         "icon": "https://images.istreamplanet.net/w_200,c_limit/dtv-latam-prod/64096a92-3433-4ace-8a41-0b5f4b70b081.png",
         "name": "CRONICA HD",
         "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4xu8xUxFHLbLBvCdVqchE/SV9NiL7puevNtWTjwV/PU5ZCb1WRELO1I7OgFPJuHDH4qUtooWBTIuJqSTdcojBaY",
-        "drm_scheme": "clearkey",
+        "drm_scheme": "widevine",
         "drm_license_url": "/mGM655KwcD2RhCNVH4Y/u0+4+8PXpMZFjrQjAUJnLr4RRbpbN2jps8Wjv6XBzztw1hT1tUQEF/G aPVJB5Eysbi7fPM94HGQ3QOieG4c0gpbzX5D/xTN48NAChiUvHfz"
       },
       {
