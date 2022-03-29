@@ -1691,6 +1691,13 @@
         "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4wNIxJGkgO8EqFmtnGmBUopLTr2uICNQwdXMfD57+BwNXgbw7AvuUAkyC4Z0ahxAXB05iZ9CU/aGBfQR/bD8R5w",
         "drm_scheme": "widevine",
         "drm_license_url": "1RkZCOryVmTaRVCtJs09htaGSqYVxsym0nHqmW6uPZI="
+      },
+      {
+        "icon": "https://static.flow.com.ar/images/8837/CH_LOGO/60/40/350/500/87227922076517.png",
+        "name": "MEGA TV",
+        "uri": "jwjdtN1vPAWPglxaqI7tf5Snz7Awf8zjQWjBTrmoJzq96wP7NlTojJ4AXdQb7x10cdY0OBePlt79+u1EP+mAIFcZUCnGn2NX4naJP2JfjnWTLyYfktLgXO65DYOJYshM",
+        "drm_scheme": "widevine",
+        "drm_license_url": "1RkZCOryVmTaRVCtJs09htaGSqYVxsym0nHqmW6uPZI="
       }
     ]
   },
