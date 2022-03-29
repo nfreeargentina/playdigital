@@ -834,16 +834,16 @@
       {
         "icon": "https://geo.edge.pontiscloud.com:9002/images/281/CH_LOGO/80/80/0/0/7149423107401.png",
         "name": "GOLDEN",
-        "uri": "/WR6R27pXc1gPUqr/ut1KH8tPWp5gbcEf8jG3kmze+2BZRfVFXgMO0wVPMKL9CleIkyYK7QChYdpUAkXp53flVKL2U4RYMNoWtC/iNJxoCQ=",
-        "drm_scheme": "widevine",
-        "drm_license_url": "1RkZCOryVmTaRVCtJs09hm1f3NVJaGbvJ/3Cr7GFuu8="
+        "uri": "GC2/ddPzLVut0fvk2/wB4ou8W+ZFPXpT4CskDGzkk0WykMZnmVX2ulK/IbawQosOZOLcrOmj81lL8CMY+TfdEQ==",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "p3w4YOr2vcNcc+A/yk81q3NY+ADyncKKnsBTaAxqbuwyyTe62E/YNivwck818bTN"
       },
       {
         "icon": "https://geo.edge.pontiscloud.com:9002/images/315/CH_LOGO/80/80/0/0/86179590071069.png",
         "name": "GOLDEN EDGE",
-        "uri": "/WR6R27pXc1gPUqr/ut1KH8tPWp5gbcEf8jG3kmze+3mO3DPfbnhF64O6hw0TX46u9iQrn3tTR71NoN4z3KpIwy982gjHuxPwUEr71gfVVA=",
-        "drm_scheme": "widevine",
-        "drm_license_url": "1RkZCOryVmTaRVCtJs09hm1f3NVJaGbvJ/3Cr7GFuu8="
+        "uri": "GC2/ddPzLVut0fvk2/wB4sf0zdIJAnPoywsoNp3EXyQNNGs6WugOOWzPG7Ti5hgTvebBzbgxmr7QGAoQb9VeqA==",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "p3w4YOr2vcNcc+A/yk81q3NY+ADyncKKnsBTaAxqbuw6Wi6zquXl9lb90OBs7qBw"
       },
       {
         "icon": "https://static.flow.com.ar/images/294/CH_LOGO/350/500/0/0/61143889072040.png",
